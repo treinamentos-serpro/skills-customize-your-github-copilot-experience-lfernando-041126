@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "unit-testing-with-unittest",
+      "title": "Unit Testing with unittest",
+      "description": "Practice automated unit testing in Python with the built-in unittest library.",
+      "path": "assignments/unit-testing-with-unittest",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
